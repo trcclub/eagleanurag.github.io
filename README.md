@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-Get this template from @vinaysomawat here : https://github.com/eagleanurag/eagleanurag.github.io
+Get this template from @eagleanurag here : https://github.com/eagleanurag/eagleanurag.github.io
 
 ### About me
 * Programming Profile Page
